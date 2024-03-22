@@ -1,33 +1,33 @@
-DEFENSE,DEF RATING,GM,FPPG,FPPG RANK,FPTS,FPTS RANK
-New England Patriots,90,17,10.4,1,177,1
-Dallas Cowboys,97,17,9.8,2,166,2
-San Francisco 49ers,98,17,9.5,3,161,3
-Philadelphia Eagles,95,17,8.9,4,151,4
-Buffalo Bills,91,16,8.4,5,134,6
-Jacksonville Jaguars,87,17,8.2,6,139,5
-Baltimore Ravens,95,17,7.3,7,124,7
-Kansas City Chiefs,92,17,7.1,8,121,8
-Houston Texans,76,17,6.8,9,116,9
-Washington Commanders,79,17,6.8,10,115,10
-Cincinnati Bengals,89,16,6.5,11,104,16
-Seattle Seahawks,74,17,6.4,12,109,11
-Green Bay Packers,84,17,6.4,12,109,11
-New Orleans Saints,87,17,6.4,12,109,11
-Carolina Panthers,84,17,6.4,15,108,14
-New York Jets,95,17,6.2,16,106,15
-Tennessee Titans,80,17,6.1,17,104,16
-Indianapolis Colts,77,17,6.1,17,104,16
-New York Giants,73,17,6.1,19,103,19
-Los Angeles Rams,72,17,6,20,102,20
-Tampa Bay Buccaneers,84,17,6,20,102,20
-Arizona Cardinals,67,17,5.9,22,101,22
-Denver Broncos,69,17,5.9,22,101,22
-Pittsburgh Steelers,89,17,5.9,22,101,22
-Los Angeles Chargers,74,17,5.9,22,101,22
-Cleveland Browns,99,17,5.8,26,99,26
-Minnesota Vikings,79,17,5.5,27,93,27
-Miami Dolphins,88,17,5.4,28,91,28
-Detroit Lions,81,17,5.3,29,90,29
-Las Vegas Raiders,72,17,4.3,30,73,30
-Atlanta Falcons,81,17,4.2,31,71,31
-Chicago Bears,60,17,3.4,32,57,32
+DEFENSE,FPTS
+Arizona Cardinals,101
+Atlanta Falcons,71
+Baltimore Ravens,124
+Buffalo Bills,134
+Carolina Panthers,108
+Chicago Bears,57
+Cincinnati Bengals,104
+Cleveland Browns,99
+Dallas Cowboys,166
+Denver Broncos,101
+Detroit Lions,90
+Green Bay Packers,109
+Houston Texans,116
+Indianapolis Colts,104
+Jacksonville Jaguars,139
+Kansas City Chiefs,121
+Las Vegas Raiders,73
+Los Angeles Chargers,101
+Los Angeles Rams,102
+Miami Dolphins,91
+Minnesota Vikings,93
+New England Patriots,177
+New Orleans Saints,109
+New York Giants,103
+New York Jets,106
+Philadelphia Eagles,151
+Pittsburgh Steelers,101
+San Francisco 49ers,161
+Seattle Seahawks,109
+Tampa Bay Buccaneers,102
+Tennessee Titans,104
+Washington Commanders,115
