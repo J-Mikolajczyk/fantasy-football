@@ -1,3 +1,4 @@
+Player,Tm,FantPos,Age,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,Fmb,FL,TD,2PM,2PP
 Cooper Rush,DAL,QB,29,9,5,94,162,1051,5,3,9,6,0.67,0,0,0,0,0,0,2,0,0,0,0
 Robbie Chosen,2TM,WR,29,16,7,0,0,0,0,0,0,0,0,0,44,20,282,14.10,1,1,1,1,0,0
 Elijah Mitchell,SFO,RB,24,5,1,0,0,0,0,0,45,279,6.20,2,4,3,7,2.33,0,0,0,2,0,0
@@ -304,7 +305,6 @@ Melvin Gordon,DEN,RB,29,10,6,0,0,0,0,0,90,318,3.53,2,32,25,223,8.92,0,5,2,2,0,0
 Ryan Tannehill,TEN,QB,34,12,12,212,325,2536,13,6,34,98,2.88,2,0,0,0,0,0,3,2,2,0,1
 Christian Watson,GNB,WR,23,14,11,0,0,0,0,0,7,80,11.43,2,66,41,611,14.90,7,0,0,9,0,0
 Qadree Ollison,DAL,RB,26,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Player,Tm,FantPos,Age,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,Fmb,FL,TD,2PM,2PP
 Ezekiel Elliott,DAL,RB,27,15,14,0,0,0,0,0,231,876,3.79,12,23,17,92,5.41,0,0,0,12,0,0
 Parker Hesse,ATL,TE,27,17,7,0,0,0,0,0,0,0,0,0,11,9,89,9.89,0,0,0,0,0,0
 Jamycal Hasty,JAX,RB,26,17,0,0,0,0,0,0,46,194,4.22,2,26,20,126,6.30,1,0,0,3,0,0

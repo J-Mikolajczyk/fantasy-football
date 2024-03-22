@@ -1,3 +1,4 @@
+Player,Tm,FantPos,Age,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,Fmb,FL,TD,2PM,2PP
 Michael Burton,NOR,FB,28,15,4,0,0,0,0,0,7,18,2.57,0,4,4,28,7.00,0,0,0,0,0,0
 Trevon Wesco,NYJ,TE,25,12,4,0,0,0,0,0,1,0,0.00,0,2,1,5,5.00,0,0,0,0,0,0
 James Robinson,JAX,RB,22,14,14,0,0,0,0,0,240,1070,4.46,7,60,49,344,7.02,3,3,1,10,1,0
@@ -172,7 +173,6 @@ Chase Claypool,PIT,WR,22,16,6,0,0,0,0,0,10,16,1.60,2,109,62,873,14.08,9,3,1,11,0
 Jacob Hollister,SEA,TE,27,16,5,0,0,0,0,0,0,0,0,0,40,25,209,8.36,3,0,0,3,1,0
 James White,NWE,RB,28,14,0,0,0,0,0,0,35,121,3.46,2,62,49,375,7.65,1,1,0,3,0,0
 Durham Smythe,MIA,TE,25,15,13,0,0,0,0,0,0,0,0,0,29,26,208,8.00,2,0,0,2,0,0
-Player,Tm,FantPos,Age,G,GS,Cmp,Att,Yds,TD,Int,Att,Yds,Y/A,TD,Tgt,Rec,Yds,Y/R,TD,Fmb,FL,TD,2PM,2PP
 Evan Engram,NYG,TE,26,16,14,0,0,0,0,0,6,26,4.33,1,109,63,654,10.38,1,1,1,2,0,0
 C.J. Board,NYG,WR,27,14,4,0,0,0,0,0,1,3,3.00,0,16,11,101,9.18,0,0,0,0,0,0
 Mike Davis,CAR,RB,27,15,12,0,0,0,0,0,165,642,3.89,6,70,59,373,6.32,2,1,1,8,0,0
