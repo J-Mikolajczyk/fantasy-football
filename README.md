@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project focuses on utilizing Artificial Intelligence (AI) techniques for Fantasy Football, specifically employing Point Per Reception (PPR) scoring on a per-game basis.
+This project focuses on utilizing Artificial Intelligence (AI) techniques for profecting Fantasy Football points
 
 ## Methodology
 
