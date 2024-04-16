@@ -12,13 +12,22 @@ This project focuses on utilizing Artificial Intelligence (AI) techniques for pr
 
 ## Scoring and Statistics
 
-- The scoring format used in this project is Point Per Reception (PPR) scoring on a per-game basis.
-- The statistics analyzed include, but are not limited to:
-  - Passing yards and touchdowns
-  - Rushing yards and touchdowns
-  - Receiving yards and touchdowns
-  - Passing attempts
+- Player stats are courtesy of [Pro Football Reference](https://www.pro-football-reference.com/)
+- The scoring format for players used in this project is Point Per Reception (PPR) scoring on a per-game basis.
+- The statistics analyzed include:
   - Age
+  - Passing attempts
+  - Passing completions
+  - Passing yards
+  - Passing touchdowns
   - Interceptions
+  - Rushing attempts
+  - Rushing yards
+  - Rushing touchdowns
+  - Targets
+  - Receptions
+  - Receiving yards
+  - Receiving touchdowns
   - Fumbles
   - 2-point conversions made
+  - 2-point conversion passes
