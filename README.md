@@ -12,7 +12,7 @@ This project focuses on utilizing Artificial Intelligence (AI) techniques for pr
 
 ## Scoring and Statistics
 
-- Player stats are courtesy of [Pro Football Reference](https://www.pro-football-reference.com/)
+- Stats are courtesy of [Pro Football Reference](https://www.pro-football-reference.com/)
 - The scoring format for players used in this project is Point Per Reception (PPR) scoring on a per-game basis.
 - The statistics analyzed include:
   - Age
