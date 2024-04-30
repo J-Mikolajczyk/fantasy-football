@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project focuses on utilizing Artificial Intelligence (AI) techniques for projecting Fantasy Football points.
+This project focuses on utilizing Artificial Intelligence and Machine Learning techniques for projecting Fantasy Football points.
 
 ## Methodology
 
